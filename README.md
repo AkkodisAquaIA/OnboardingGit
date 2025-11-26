@@ -12,6 +12,8 @@ Il permet de :
   - Revenir facilement en arrière en cas d’erreur
   - Git fonctionne en local, sur ton ordinateur : tu possèdes ta propre copie complète du dépôt.
 
+https://www.youtube.com/watch?v=2ReR1YJrNOM 
+
 ### 📌 Qu’est-ce que GitHub ?
 
 GitHub est une plateforme en ligne (un service) hébergeant des dépôts Git.
@@ -22,6 +24,8 @@ Il permet de :
   - Gérer les tickets, la documentation, la CI/CD, etc.
 
 ⚠️ GitHub n’est pas Git, c’est un hébergeur et un écosystème autour de Git.
+
+https://www.youtube.com/watch?v=pBy1zgt0XPc
 
 ### 📌 Différences entre Git et GitHub
 | **Git** | **GitHub** |
@@ -36,7 +40,9 @@ En résumé :
 👉 Git = Le moteur
 👉 GitHub = Le garage où tu stockes et partages ton moteur
 
-## 🧪 Travaux pratiques
+https://www.youtube.com/watch?v=wpISo9TNjfU
+
+## 📖 Commande de bases
 
 Nous allons utiliser un repo test pour manipuler les commandes les plus courantes.
 Ces exercices supposent que le dépôt existe déjà sur GitHub.
@@ -49,8 +55,7 @@ Assure-toi d’avoir :
 ### Via VS Code
 
 1. Ouvre VS Code
-2. Clique sur Source Control (icône branche dans la barre latérale)
-3. Clique sur Clone Repository
+2. Clique sur Clone Git Repository sur la page d'accueil
 4. Colle l’URL GitHub : https://github.com/AkkodisAquaIA/OnboardingGit.git
 5. Choisis un dossier de destination
 6. VS Code propose d’ouvrir le dossier → clique sur Open
@@ -78,7 +83,7 @@ Toujours dans Source Control :
 1. Modifie un fichier dans VS Code
 2. Ouvre Source Control
 3. Tous les fichiers modifiés apparaissent
-4. Tape un message dans la zone Message
+4. Tape un message dans la zone Message -> Il faut qu'il soit le plus personnalisé et en rapport avec la modification que possible.
 5. Clique sur Commit
 
 ➡️ Le commit est enregistré localement.
@@ -104,6 +109,7 @@ Dans VS Code :
 1. Clique sur le nom de la branche en bas à gauche (ex : main)
 2. Choisis Create new branch
 3. Donne un nom : feature/nouvelle-fonctionnalité
+4. Publier la branche sur le GitHub grâce au bouton publish
 
 VS Code se place automatiquement sur la nouvelle branche.
 
@@ -111,7 +117,7 @@ VS Code se place automatiquement sur la nouvelle branche.
 
 1. En bas à gauche → clique sur ta branche actuelle
 2. Sélectionne la branche sur laquelle tu souhaites fusionner tes modifications pour revenir dessus
-3. Menu … → Merge Branch
+3. Menu … → Branch → Merge Branch
 4. Choisis la branche à fusionner from (ex : feature/...)
 
 ➡️ La fusion est appliquée localement, pense ensuite à Push.
@@ -125,3 +131,26 @@ Après avoir push ta branche :
 4. Attendre qu'elle soit validée par un admin du projet.
 
 ➡️ La PR est créée sur GitHub.
+
+## 🧪 Tutoriel
+
+### Récuperer le projet
+D'après les commandes de bases vues au-dessus, récupérez le projet grâce à VS Code.
+
+### Changer de branche
+Changer de branche, et aller sur la branch "Development".
+
+### Créer une nouvelle branche
+Créer une nouvelle branche qui s'appelle "Votre-nom-dev".
+
+### Modifier un fichier
+Ouvrir le fichier "List_all_participant.txt" et ajouter une nouvelle ligne avec votre prénom.
+
+### Ecrire un commit
+Ecrire le commit correspondant à votre modification.
+
+### Push
+Poussez alors la modification sur le GitHub.
+
+### Merge
+Une fois que vous voyez votre modification dans votre arbre de suivi, réalisez le merge de votre branch sur la branch "Development".
