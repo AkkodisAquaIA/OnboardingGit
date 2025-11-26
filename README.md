@@ -156,4 +156,4 @@ Poussez alors la modification sur le GitHub.
 Une fois que vous voyez votre modification dans votre arbre de suivi, réalisez le merge de votre branch sur la branch "Development".
 
 ### Pull request
-Enfin, afin de rabattre vos modifications, vous devez faire une demande de pull request afin de faire valider votre travail par un admin
+Enfin, afin de rabattre vos modifications, vous devez faire une demande de pull request afin de faire valider votre travail par un admin.
