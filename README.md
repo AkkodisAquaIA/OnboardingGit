@@ -51,7 +51,7 @@ Assure-toi d’avoir :
 1. Ouvre VS Code
 2. Clique sur Source Control (icône branche dans la barre latérale)
 3. Clique sur Clone Repository
-4. Colle l’URL GitHub : https://github.com/username/mon-repo-test.git
+4. Colle l’URL GitHub : https://github.com/AkkodisAquaIA/OnboardingGit.git
 5. Choisis un dossier de destination
 6. VS Code propose d’ouvrir le dossier → clique sur Open
 
