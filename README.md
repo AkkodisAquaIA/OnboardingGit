@@ -124,7 +124,7 @@ VS Code se place automatiquement sur la nouvelle branche.
 
 ##9️⃣ Ouvrir une Pull Request (PR)
 
-Après avoir push ta branche :
+Après avoir push une branche :
 1. Aller sur le compte GitHub du repository, et un bouton devrait apparaître, "Create Pull Request".
 2. Vérifier bien de rabattre la branche avec les modifications sur la branche voulue
 3. S'il n'y a pas de conflits, faire la demande de Pull request
@@ -154,3 +154,6 @@ Poussez alors la modification sur le GitHub.
 
 ### Merge
 Une fois que vous voyez votre modification dans votre arbre de suivi, réalisez le merge de votre branch sur la branch "Development".
+
+### Pull request
+Enfin, afin de rabattre vos modifications, vous devez faire une demande de pull request afin de faire valider votre travail par un admin
