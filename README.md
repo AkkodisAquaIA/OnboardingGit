@@ -113,7 +113,7 @@ Dans VS Code :
 
 VS Code se place automatiquement sur la nouvelle branche.
 
-##8️⃣ Fusionner une branche (Merge)
+## 8️⃣ Fusionner une branche (Merge)
 
 1. En bas à gauche → clique sur ta branche actuelle
 2. Sélectionne la branche sur laquelle tu souhaites fusionner tes modifications pour revenir dessus
@@ -122,7 +122,7 @@ VS Code se place automatiquement sur la nouvelle branche.
 
 ➡️ La fusion est appliquée localement, pense ensuite à Push.
 
-##9️⃣ Ouvrir une Pull Request (PR)
+## 9️⃣ Ouvrir une Pull Request (PR)
 
 Après avoir push une branche :
 1. Aller sur le compte GitHub du repository, et un bouton devrait apparaître, "Create Pull Request".
@@ -132,7 +132,7 @@ Après avoir push une branche :
 
 ➡️ La PR est créée sur GitHub.
 
-##🔟 Supprimer une branche (Delete branch)
+## 🔟 Supprimer une branche (Delete branch)
 
 Après avoir merger ou effectuer une pull request :
 1. Allez sur la branche sur laquelle vous avez mergé vos modifications (la branche d'arrivée)
