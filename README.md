@@ -162,11 +162,11 @@ Ecrire le commit correspondant à votre modification.
 ### ⏫ Push
 Poussez alors la modification sur le GitHub.
 
-### :arrow Merge
+### 🔀 Merge
 Une fois que vous voyez votre modification dans votre arbre de suivi, réalisez le merge de votre branch sur la branch "Development".
 
-### Pull request
+### ⤵️ Pull request
 Afin de rabattre vos modifications, vous devez faire une demande de pull request afin de faire valider votre travail par un admin.
 
-### Delete branch
+### ❎ Delete branch
 Enfin, il est de coutume de supprimer sa branche de travail lorsque l'on a cloturé un point. Supprimer votre branche de travail.
