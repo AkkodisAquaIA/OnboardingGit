@@ -142,6 +142,12 @@ Après avoir merger ou effectuer une pull request :
 4. Menu … → Branch → Delete Remote Branch...
 5. Séléctionnez la même branche de travail à supprimer sur le serveur GitHub.
 
+## Pratiquer
+Voici un site web explicant et permettant la pratique des mécaniques principales de git.
+[Learn Git Branching](https://learngitbranching.js.org/?locale=fr_FR)
+
+Le site permet de suivre plusieurs tutoriels et exercices portant sur la gestion des systèmes de git, dans un environnement simple.
+
 ## 🧪 Tutoriel
 
 ### ⏬ Récuperer le projet
